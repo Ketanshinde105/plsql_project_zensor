@@ -1,7 +1,7 @@
-# pet house management system
+# Pet House Management System
 
-# created by   : Ketan Shinde
-#  collage name : Amrutvahini collage of Engineering,Sangamner
+# Created By   : Ketan Shinde
+# Collage Name : Amrutvahini Collage Of Engineering,Sangamner
 
 
 
@@ -39,7 +39,7 @@ Improves customer experience with easy bookings and payment tracking.
 Manages pets’ health and service history effectively.
 The system aims to optimize business processes, improve operational efficiency, and enhance customer satisfaction in pet care services.
 
-# Gauidance1:=Aniruddha Gaikwad.
+# Gauidance:=Aniruddha Gaikwad.
 
 
   
